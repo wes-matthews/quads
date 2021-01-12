@@ -17,6 +17,10 @@ h3 {
   color: #e84545;
 }
 
+a {
+  text-decoration: none;
+}
+
 a:hover {
   color: crimson;
 }
